@@ -14,7 +14,7 @@
 
 # 💫 About Me
 
-```python
+
 class Aditi:
 
     def __init__(self):
@@ -34,7 +34,7 @@ class Aditi:
         return "Build impactful tech projects 🚀"
 
 me = Aditi()
-```
+
 
 ---
 

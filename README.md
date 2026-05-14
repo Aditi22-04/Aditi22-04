@@ -15,25 +15,13 @@
 # 💫 About Me
 
 
-class Aditi:
+# 💫 About Me
 
-    def __init__(self):
-        self.location = "India"
-        self.education = "AI & Data Science Engineering"
-        self.interests = [
-            "Artificial Intelligence",
-            "Web Development",
-            "Machine Learning",
-            "UI/UX"
-        ]
-
-    def current_project(self):
-        return "Lost & Found Web Application"
-
-    def goals(self):
-        return "Build impactful tech projects 🚀"
-
-me = Aditi()
+- 🎓 AI & Data Science Engineering Student
+- 💻 Full Stack Developer
+- 🤖 Machine Learning Enthusiast
+- 🚀 Building a Lost & Found Web Application
+- 🌱 Exploring AI, Web Development & UI/UX
 
 
 ---

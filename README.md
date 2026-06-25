@@ -119,6 +119,6 @@
 
 ✨ *"Turning ideas into reality through code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F472B6,50:A78BFA,100:6EE7F7&amp;height=120&amp;section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;&color=0:0d0d0d,50:8b1a4a,100:e91e8cheight=120&amp;section=footer" />
 
 </div>

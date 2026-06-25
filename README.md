@@ -27,7 +27,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <table>
   <tr>
     <td><b>Languages</b></td>
@@ -36,6 +35,7 @@
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -60,6 +60,9 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DartPad-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -86,15 +89,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;icon_color=6EE7F7&amp;text_color=ffffff" />
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=ffffff" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Aditi22-04&theme=tokyonight&hide_border=true&border_radius=10)
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=F472B6&amp;currStreakLabel=6EE7F7" />
+<br/>
 
 </div>
 
